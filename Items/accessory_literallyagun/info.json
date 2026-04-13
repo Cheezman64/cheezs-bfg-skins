@@ -1,0 +1,10 @@
+﻿{
+  "name": "literally just a gun",
+  "author": "Cheezman64",
+  "description": "that's it. just a gun",
+  "file": "item_literallyagun",
+  "type": "item",
+  "scale": 15.3069,
+  "left":  { "position": [-0.062, 0.347, -0.049], "rotation": [348.924, 270, 79.1114] },
+  "right": { "position": [0.0518477, -0.400214, 0.0526886], "rotation": [11.0763, 90, 280.462] }
+}
