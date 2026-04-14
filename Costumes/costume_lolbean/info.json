@@ -4,7 +4,7 @@
   "description": "The bean from LOLBeans.io",
   "file": "costume_lolbean",
   "type": "costume",
-  "keepBase": true,
+  "keepBase": false,
   "boneOffsets": [
     { "bone": "Knee_L_jnt", "x": -0.00157112, "y": 0.00430717, "z": 0.000545661 },
     { "bone": "Pelvis_C_jnt", "x": 1.8791E-11, "y": 0.00206367, "z": 4.61834E-10 },
