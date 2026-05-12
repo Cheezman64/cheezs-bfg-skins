@@ -2,7 +2,7 @@
   "displayName": "Fall City Stumble",
   "file": "round_fall_city_stumble",
   "prefab": "round_fall_city_stumble",
-  "skybox": "Default-Skybox",
+  "skybox": "Skybox",
   "ambientMode": "0",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "false",
