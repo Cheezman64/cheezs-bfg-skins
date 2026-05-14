@@ -4,7 +4,7 @@
   "prefab": "round_fall_city_stumble",
   "skybox": "Skybox",
   "ambientMode": "1",
-  "ambientLight": "1 0.4447915 0 0.6",
+  "ambientLight": "1 0.4447915 0 0.3490196",
   "fog": "true",
   "fogDensity": "0.0015",
   "fogColor": "0.6226415 0.4822642 0.3025098 1",
