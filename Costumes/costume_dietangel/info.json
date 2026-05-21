@@ -1,0 +1,12 @@
+﻿{
+  "name": "DietAngel",
+  "author": "Cheezman64",
+  "description": "DietAngel with absolutely NO changes",
+  "file": "costume_dietangel",
+  "type": "costume",
+  "keepBase": true,
+  "boneOffsets": [
+    { "bone": "Eye_L_jnt", "x": -0.00120082, "y": 0.00232797, "z": 0.00382156 },
+    { "bone": "Eye_R_jnt", "x": 0.00120082, "y": 0.00232797, "z": 0.00382156 }
+  ]
+}
