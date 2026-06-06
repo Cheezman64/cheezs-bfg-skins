@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "very broken LOLBean",
   "author": "Cheezman64",
   "description": "(VERY BROKEN) The bean from LOLBeans.io",
@@ -34,4 +34,6 @@
     { "bone": "Hip_L_jnt_end", "x": 0, "y": 0.000790864, "z": 0 },
     { "bone": "Knee_R_jnt", "x": -7.7793E-11, "y": -0.00283239, "z": 0.00118918 }
   ]
+,
+  "group": "Video Game Skins"
 }
